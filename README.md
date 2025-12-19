@@ -34,6 +34,7 @@ Defined in `.eslintrc.json` and `tsconfig.json`:
 * husky
 * lint-staged
 * yarn
+* kiro
 
 ## Disclaimer
 This is an experimental environment designed to test the limits of AI-driven, high-constraint development.
