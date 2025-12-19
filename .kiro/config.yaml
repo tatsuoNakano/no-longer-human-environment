@@ -1,0 +1,10 @@
+project_name:
+language: typescript
+package_manager: yarn
+
+entry_points:
+  - "./src/index.ts"
+ignore:
+  - "node_modules"
+  - "dist"
+  - "build"
